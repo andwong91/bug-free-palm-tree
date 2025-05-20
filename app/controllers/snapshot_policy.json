@@ -1,0 +1,24 @@
+{
+  "directoryPath": "123",
+  "deletionTimeframe": "automatically",
+  "deletionFrequency": {
+    "value": 14,
+    "duration": "days"
+  },
+  "policyIsEnabled": true,
+  "policyName": "123",
+  "scheduleType": "daily",
+  "snapshotsAreLocked": true,
+  "snapshotHour": 0,
+  "snapshotMinute": 0,
+  "selectedDays": [
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ]
+}
